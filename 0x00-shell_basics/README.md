@@ -1,2 +1,3 @@
 #!/bin/bash
-pwd_checking the current directory
+realpath 0-current_working_directory
+
